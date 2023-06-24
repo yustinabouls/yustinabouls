@@ -12,21 +12,4 @@ Coding for me is like painting for an artist or composing music for a musician -
 
 Check out my repositories to see what I've been up to! 💻
 
-```
-const yustina = {
-    pronouns: "she" | "her",
-    code: ["C#", "HTML", "CSS", "JavaScript", "PHP", "Java"],
-    technologies: {
-        frontEnd: ["Bootstrap", "Node.js", "ReactJS"],
-        backEnd: {
-            languages: ["C#", "PHP"],
-            frameworks: ["MVC"]
-        },
-        databases: ["MySQL", "SQL", "PostgreSQL"],
-        tools: ["Linux/Unix", "Git/GitHub", "RESTful"]
-    },
-    architecture: ["MVC", "Systems Analysis & Design", "ERD", "System Boundary Diagrams"],
-    currentFocus: "Web Development",
-};
-```
 
