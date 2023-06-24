@@ -4,11 +4,11 @@
 
 ### I'm a recent Computer Programming graduate from Durham College, with a driving passion for code, design, and problem-solving.
 
-Coding for me is like painting for an artist or writing for a novelist, it's my way of creating, of expressing, and most importantly, of impacting.
+Coding for me is like painting for an artist or composing music for a musician - it's my way of creating, expressing, and most importantly, impacting.
 
-🎓 I've sharpened my skills through a variety of academic projects - everything from card games to hospital management systems.  
+🎓 I've honed my skills through a variety of academic projects - everything from card games to hospital management systems.  
 🏗️ My tech toolbelt includes a rich assortment of languages and frameworks, with a strong focus on web development technologies.  
-🎨 When I'm not deep in code, you can find me fostering positive educational environments as a virtual art teacher or managing daycare servers.
+🎨 When I'm not deep in code, you can find me creating beautiful art pieces. You can check out my work [here](https://www.instagram.com/artbyyustina/)! I also foster positive educational environments as an art teacher.
 
 Check out my repositories to see what I've been up to! 💻
 
@@ -43,8 +43,9 @@ const yustina = {
 #### Tech & Me
 
 ```diff
-+ Problem solving
-+ Creating user-centric applications
-+ Always learning new tech
-- Hates monotonous tasks
++ Enjoys the creativity in coding
++ Building user-friendly web applications
++ Continually learning and embracing new technologies
+- Prefers creativity over monotonous tasks
+
 
